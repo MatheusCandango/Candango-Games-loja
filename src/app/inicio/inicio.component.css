@@ -1,0 +1,24 @@
+main{
+    min-height: 500px;
+}
+
+#section-banner{
+    min-height: 0px;
+}
+
+#section-banner img{
+    height: 100px;
+}
+
+.example-card {
+    max-width: 350px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: auto;
+  }
+  
+  mat-grid-list{
+    margin: 10px 0px;
+  }
